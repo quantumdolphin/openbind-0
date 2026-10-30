@@ -1,0 +1,18 @@
+# Local model and container downloads
+weights/
+ngc-transfer/
+
+# Generated inputs, alignments, predictions, ZIPs, caches, and virtual environments
+workspace/
+
+# Python and local configuration
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/

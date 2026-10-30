@@ -1,0 +1,21 @@
+{
+  "queries": {
+    "openbind_ns2b_ns3": {
+      "chains": [
+        {
+          "molecule_type": "protein",
+          "chain_ids": "A",
+          "sequence": "SMGKSVDMYIERAGDITWEKDAEVTGNSPRLDVALDESGDFSLVEE"
+        },
+        {
+          "molecule_type": "protein",
+          "chain_ids": "B",
+          "sequence": "MKEVKKGETTDGVYRVMTRRLLGSTQVGVGVMQEGVFHTMWHVTKGAALRSGEGRLDPYWGDVKQDLVSYCGPWKLDAAWDGLSEVQLLAVPPGERAKNIQTLPGIFKTKDGDIGAVALDYPAGTSGSPILDKCGRVIGLYGNGVVIKNGSYVSAITQGKREEETPVE"
+        }
+      ],
+      "use_msas": true,
+      "use_main_msas": true,
+      "use_paired_msas": true
+    }
+  }
+}

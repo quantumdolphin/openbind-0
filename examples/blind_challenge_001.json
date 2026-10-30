@@ -1,0 +1,23 @@
+{
+  "queries": {
+    "blind_challenge_001": {
+      "chains": [
+        {
+          "molecule_type": "protein",
+          "chain_ids": "A",
+          "sequence": "SMGKSVDMYIERAGDITWEKDAEVTGNSPRLDVALDESGDFSLVEE"
+        },
+        {
+          "molecule_type": "protein",
+          "chain_ids": "B",
+          "sequence": "MKEVKKGETTDGVYRVMTRRLLGSTQVGVGVMQEGVFHTMWHVTKGAALRSGEGRLDPYWGDVKQDLVSYCGPWKLDAAWDGLSEVQLLAVPPGERAKNIQTLPGIFKTKDGDIGAVALDYPAGTSGSPILDKCGRVIGLYGNGVVIKNGSYVSAITQGKREEETPVE"
+        },
+        {
+          "molecule_type": "ligand",
+          "chain_ids": "C",
+          "smiles": "O=C(Nc1ccc2c(c1)CNC2)c1cccc2cn[nH]c12"
+        }
+      ]
+    }
+  }
+}
